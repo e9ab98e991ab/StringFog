@@ -1,5 +1,6 @@
-
 # StringFog
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fe9ab98e991ab%2FStringFog.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fe9ab98e991ab%2FStringFog?ref=badge_shield)
+
 一款自动对dex/aar/jar文件中的字符串进行加密Android插件工具，正如名字所言，给字符串加上一层雾霭，使人难以窥视其真面目。
 
 - 支持java/kotlin。
@@ -259,3 +260,6 @@ public final class StringFogImpl implements IStringFog {
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fe9ab98e991ab%2FStringFog.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fe9ab98e991ab%2FStringFog?ref=badge_large)
